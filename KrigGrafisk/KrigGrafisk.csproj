@@ -1,0 +1,124 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="card_images\10C.png" />
+    <None Remove="card_images\10D.png" />
+    <None Remove="card_images\10H.png" />
+    <None Remove="card_images\10S.png" />
+    <None Remove="card_images\2C.png" />
+    <None Remove="card_images\2D.png" />
+    <None Remove="card_images\2H.png" />
+    <None Remove="card_images\2S.png" />
+    <None Remove="card_images\3C.png" />
+    <None Remove="card_images\3D.png" />
+    <None Remove="card_images\3H.png" />
+    <None Remove="card_images\3S.png" />
+    <None Remove="card_images\4C.png" />
+    <None Remove="card_images\4D.png" />
+    <None Remove="card_images\4H.png" />
+    <None Remove="card_images\4S.png" />
+    <None Remove="card_images\5C.png" />
+    <None Remove="card_images\5D.png" />
+    <None Remove="card_images\5H.png" />
+    <None Remove="card_images\5S.png" />
+    <None Remove="card_images\6C.png" />
+    <None Remove="card_images\6D.png" />
+    <None Remove="card_images\6H.png" />
+    <None Remove="card_images\6S.png" />
+    <None Remove="card_images\7C.png" />
+    <None Remove="card_images\7D.png" />
+    <None Remove="card_images\7H.png" />
+    <None Remove="card_images\7S.png" />
+    <None Remove="card_images\8C.png" />
+    <None Remove="card_images\8D.png" />
+    <None Remove="card_images\8H.png" />
+    <None Remove="card_images\8S.png" />
+    <None Remove="card_images\9C.png" />
+    <None Remove="card_images\9D.png" />
+    <None Remove="card_images\9H.png" />
+    <None Remove="card_images\9S.png" />
+    <None Remove="card_images\AC.png" />
+    <None Remove="card_images\AD.png" />
+    <None Remove="card_images\AH.png" />
+    <None Remove="card_images\AS.png" />
+    <None Remove="card_images\JC.png" />
+    <None Remove="card_images\JD.png" />
+    <None Remove="card_images\JH.png" />
+    <None Remove="card_images\JS.png" />
+    <None Remove="card_images\KC.png" />
+    <None Remove="card_images\KD.png" />
+    <None Remove="card_images\KH.png" />
+    <None Remove="card_images\KS.png" />
+    <None Remove="card_images\QC.png" />
+    <None Remove="card_images\QD.png" />
+    <None Remove="card_images\QH.png" />
+    <None Remove="card_images\QS.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Krig\Krig.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="card_images\10C.png" />
+    <Resource Include="card_images\10D.png" />
+    <Resource Include="card_images\10H.png" />
+    <Resource Include="card_images\10S.png" />
+    <Resource Include="card_images\2C.png" />
+    <Resource Include="card_images\2D.png" />
+    <Resource Include="card_images\2H.png" />
+    <Resource Include="card_images\2S.png" />
+    <Resource Include="card_images\3C.png" />
+    <Resource Include="card_images\3D.png" />
+    <Resource Include="card_images\3H.png" />
+    <Resource Include="card_images\3S.png" />
+    <Resource Include="card_images\4C.png" />
+    <Resource Include="card_images\4D.png" />
+    <Resource Include="card_images\4H.png" />
+    <Resource Include="card_images\4S.png" />
+    <Resource Include="card_images\5C.png" />
+    <Resource Include="card_images\5D.png" />
+    <Resource Include="card_images\5H.png" />
+    <Resource Include="card_images\5S.png" />
+    <Resource Include="card_images\6C.png" />
+    <Resource Include="card_images\6D.png" />
+    <Resource Include="card_images\6H.png" />
+    <Resource Include="card_images\6S.png" />
+    <Resource Include="card_images\7C.png" />
+    <Resource Include="card_images\7D.png" />
+    <Resource Include="card_images\7H.png" />
+    <Resource Include="card_images\7S.png" />
+    <Resource Include="card_images\8C.png" />
+    <Resource Include="card_images\8D.png" />
+    <Resource Include="card_images\8H.png" />
+    <Resource Include="card_images\8S.png" />
+    <Resource Include="card_images\9C.png" />
+    <Resource Include="card_images\9D.png" />
+    <Resource Include="card_images\9H.png" />
+    <Resource Include="card_images\9S.png" />
+    <Resource Include="card_images\AC.png" />
+    <Resource Include="card_images\AD.png" />
+    <Resource Include="card_images\AH.png" />
+    <Resource Include="card_images\AS.png" />
+    <Resource Include="card_images\JC.png" />
+    <Resource Include="card_images\JD.png" />
+    <Resource Include="card_images\JH.png" />
+    <Resource Include="card_images\JS.png" />
+    <Resource Include="card_images\KC.png" />
+    <Resource Include="card_images\KD.png" />
+    <Resource Include="card_images\KH.png" />
+    <Resource Include="card_images\KS.png" />
+    <Resource Include="card_images\QC.png" />
+    <Resource Include="card_images\QD.png" />
+    <Resource Include="card_images\QH.png" />
+    <Resource Include="card_images\QS.png" />
+  </ItemGroup>
+
+</Project>
